@@ -4,8 +4,6 @@
 
 <p align="center">A fullstack developer focused around PHP, Golang & Kubernetes</p>
 
-🔭  I’m currently working on **Nano Cache** a distrbuted caching system as a service. https://docs.nano-cache.io/
-
 <!--
 **mrbenosborne/mrbenosborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
