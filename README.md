@@ -4,6 +4,9 @@
 
 <p align="center">A fullstack developer focused around PHP, Golang & Kubernetes</p>
 
+# Projects
+[Laravel Key Generator @ https://laravel-key-generator.benosborne.io/](https://laravel-key-generator.benosborne.io/)
+
 <!--
 **mrbenosborne/mrbenosborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
