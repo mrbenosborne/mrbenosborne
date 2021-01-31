@@ -4,6 +4,8 @@
 
 <p align="center">A fullstack developer focused around PHP, Golang & Kubernetes</p>
 
+- 🔭 I’m currently working on a service to sync enviroment variables across teams easily with end-to-end encryption.
+
 <!--
 **mrbenosborne/mrbenosborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
