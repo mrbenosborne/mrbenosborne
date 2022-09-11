@@ -2,7 +2,7 @@
   <code>Hi there 👋 I'm Ben 👨‍💻</code>
 </h1>
 
-<p align="center">A fullstack developer focused around PHP, Golang & Kubernetes</p>
+<p align="center">A passionate Backend & DevOps engineer focused on PHP, Go & Kubernetes</p>
 
 <!--
 **mrbenosborne/mrbenosborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
